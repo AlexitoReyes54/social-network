@@ -24,9 +24,6 @@ jspm_packages/
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
 
-# Optional npm cache directory
-.npm
-
 
 # Output of 'npm pack'
 *.tgz
